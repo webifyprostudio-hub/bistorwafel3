@@ -1,4 +1,4 @@
-import { motion, AnimatePresence } from 'motion/react';
+import { motion, AnimatePresence } from "framer-motion";
 import { Phone, MapPin, Clock, Star, Instagram, Facebook, Utensils, Navigation } from 'lucide-react';
 import { useState, useEffect } from 'react';
 
